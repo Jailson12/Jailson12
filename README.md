@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sou Programador  Front  End  Júnior  !
+Estudante de Programação !
 
 
  . Estudando 
