@@ -1,5 +1,6 @@
 ### Hi there 👋
 Sou um Estudante de Programação !
+<br>
   Estudando... 
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
